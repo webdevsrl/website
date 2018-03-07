@@ -1,0 +1,19 @@
+header,
+section {
+  overflow: hidden;
+}
+
+header {
+  /* background-image: url('../images/header-background.jpg'); */
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  color: #0D4E4C;
+}
+  header h1 {
+    font-size: 5em;
+    transform: rotate(-3deg);
+  }
+  header p {
+    font-size: 2em;
+  }
