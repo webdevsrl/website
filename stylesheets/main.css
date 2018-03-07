@@ -4,7 +4,7 @@ section {
 }
 
 header {
-  /* background-image: url('../images/header-background.jpg'); */
+  background: #00a6a6;
   background-size: cover;
   height: 100vh;
   text-align: center;
