@@ -17,3 +17,17 @@ header {
   header p {
     font-size: 2em;
   }
+
+.team {
+  background: #E8DABF;
+  color: #0D4E4C;
+  text-align: center;
+}
+  .team ul {
+    list-style: none;
+    margin: 0;
+  }
+    .team ul li {
+      float: left;
+      padding: 40px;
+    }
